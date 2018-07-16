@@ -1,7 +1,7 @@
 package coreJava_programs.Java_Programs;
 
 public class Bubble_Sort_logic_and_Program_6 {
-	
+	//bubble sort
 	public static void doBubbleSort(int[] array)
 	{
 		int temp;
